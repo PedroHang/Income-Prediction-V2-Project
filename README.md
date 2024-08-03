@@ -1,6 +1,6 @@
 # Income Prediction v2
 
-[Kaggle](https://www.kaggle.com/your-dataset-link)
+[Kaggle](https://www.kaggle.com/code/hangpedro/income-prediction-v2-project)
 
 ## Overview
 
